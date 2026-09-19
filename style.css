@@ -1,0 +1,24 @@
+main{
+    @media screen {
+        height: 100vh;
+    width: 100vw;
+    display: flex;
+    margin-top: 50px;
+    }
+}
+.array_img{
+    width: 50%;
+    height: 80%;
+}
+.array_img img{
+    width: 100%;
+    height: 100%;
+}
+.func_img{
+    width: 50%;
+    height: 80%;
+}
+.func_img img{
+    width: 100%;
+    height: 100%;
+}
