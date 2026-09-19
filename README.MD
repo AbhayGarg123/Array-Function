@@ -1,4 +1,4 @@
-Array & Function Visual Layout
+# Array & Function Visual Layout
 
 A simple frontend practice project created using HTML and CSS.
 
